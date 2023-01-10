@@ -1,0 +1,9 @@
+/* This is an example CSS selector for a class attribute */
+.intro {
+  color: red;
+}
+
+/* This is an example CSS selector for an id attribute */
+#line2 {
+  color: red;
+}
